@@ -7,7 +7,7 @@ Senior ML-AI Engineer with 6 years of experience working with technologies like 
 - 🔭 I'm currently working at **BASF** as a developer
 - 🌱 I'm continuously learning and improving my skills
 - 👯 I'm looking to collaborate on interesting projects
-- 💬 Ask me about Python, SQL, MongoDB, Kubernetes, AirFlow, PyTorch, Keras, TensorFlow, Scikit-Learn,Azure, Databricks, MLOps, LLMs or RAGs.
+- 💬 Ask me about Python, SQL, MongoDB, Kubernetes, AirFlow, PyTorch, Keras, TensorFlow, Scikit-Learn, Azure, Databricks, MLOps, LLMs or RAGs.
 - 📫 How to reach me: **ptobarra@gmail.com**
 - 📍 Located in: **Madrid, Spain**
 
