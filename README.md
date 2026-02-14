@@ -21,7 +21,7 @@ Senior ML-AI Engineer with 6 years of experience working with technologies like 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-007ACC?style=flat-square&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-007ACC?style=flat-square&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-007ACC?style=flat-square&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit-Learn-007ACC?style=flat-square&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-007ACC?style=flat-square&logoColor=white)
 ![PySpark](https://img.shields.io/badge/-PySpark-007ACC?style=flat-square&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-007ACC?style=flat-square&logoColor=white)
 ![Databricks](https://img.shields.io/badge/-Databricks-007ACC?style=flat-square&logoColor=white)
