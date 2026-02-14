@@ -34,6 +34,8 @@ Senior ML-AI Engineer with 6 years of experience working with technologies like 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ptobarra&theme=radical&hide_border=true)
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ptobarra&theme=react-dark&hide_border=true&area=true)](https://github.com/ptobarra)
+
 ![Top Languages](https://helio-github-stats.vercel.app/api/top-langs/?username=ptobarra&layout=compact&theme=radical&hide_border=true)
 
 ## 📫 Connect with me
@@ -45,5 +47,3 @@ Senior ML-AI Engineer with 6 years of experience working with technologies like 
 ---
 
 ⭐️ From [ptobarra](https://github.com/ptobarra)
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ptobarra&theme=react-dark&hide_border=true&area=true)](https://github.com/ptobarra)
