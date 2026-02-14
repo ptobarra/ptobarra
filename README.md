@@ -24,7 +24,6 @@ Senior ML-AI Engineer with 6 years of experience working with technologies like 
 ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-007ACC?style=flat-square&logoColor=white)
 ![PySpark](https://img.shields.io/badge/-PySpark-007ACC?style=flat-square&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-007ACC?style=flat-square&logoColor=white)
-![Databricks](https://img.shields.io/badge/-Databricks-007ACC?style=flat-square&logoColor=white)
 ![MLOps](https://img.shields.io/badge/-MLOps-007ACC?style=flat-square&logoColor=white)
 ![LLMs](https://img.shields.io/badge/-LLMs-007ACC?style=flat-square&logoColor=white)
 ![RAGs](https://img.shields.io/badge/-RAGs-007ACC?style=flat-square&logoColor=white)
