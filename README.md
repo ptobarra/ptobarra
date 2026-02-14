@@ -43,6 +43,7 @@ Senior ML-AI Engineer with 6 years of experience working with technologies like 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ptobarra/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ptobarra@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/ptobarra)
+[![Resume](https://img.shields.io/badge/-Resume-FF5722?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://1drv.ms/b/c/73e730e8df112904/IQB_sfncAU8CSo_lmOXtsBwKAU8dLgHFW2z5iVNoAy2JNxc)
 
 ---
 
