@@ -7,23 +7,21 @@ Senior ML-AI Engineer with 6 years of experience working with technologies like 
 - 🔭 I'm currently working at **BASF** as a developer
 - 🌱 I'm continuously learning and improving my skills
 - 👯 I'm looking to collaborate on interesting projects
-- 💬 Ask me about Python, Jupyter Notebook, HTML
+- 💬 Ask me about Python, SQL, MongoDB, Kubernetes, AirFlow, PyTorch, Keras, TensorFlow, Scikit-Learn,PySpark, Azure, Databricks, MLOps, LLMs and RAGs.
 - 📫 How to reach me: **ptobarra@gmail.com**
 - 📍 Located in: **Madrid, Spain**
 
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-007ACC?style=flat-square&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-007ACC?style=flat-square&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-007ACC?style=flat-square&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-007ACC?style=flat-square&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-007ACC?style=flat-square&logoColor=white)
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://helio-github-stats.vercel.app/api?username=ptobarra&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ptobarra&theme=radical&hide_border=true)
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ptobarra&theme=react-dark&hide_border=true&area=true)](https://github.com/ptobarra)
 
 ![Top Languages](https://helio-github-stats.vercel.app/api/top-langs/?username=ptobarra&layout=compact&theme=radical&hide_border=true)
 
@@ -36,3 +34,5 @@ Senior ML-AI Engineer with 6 years of experience working with technologies like 
 ---
 
 ⭐️ From [ptobarra](https://github.com/ptobarra)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ptobarra&theme=react-dark&hide_border=true&area=true)](https://github.com/ptobarra)
