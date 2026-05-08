@@ -4,7 +4,7 @@ Senior ML-AI Engineer with 6 years of experience working with technologies like 
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working at **BASF** as a developer
+- 🔭 I'm currently working at **UMO** as a developer
 - 🌱 I'm continuously learning and improving my skills
 - 👯 I'm looking to collaborate on interesting projects
 - 💬 Ask me about Python, Kubernetes, AirFlow, PyTorch, Keras, TensorFlow, Scikit-Learn, Azure, Databricks, MLOps, LLMs, RAGs.
