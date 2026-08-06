@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Pedro Tobarra
 
-Senior ML-AI Engineer with 6 years of experience working with technologies like Python, SQL, Kubernetes, AirFlow using frameworks such as PyTorch, PySpark, TensorFlow on cloud platforms like Azure Databricks, Azure Data Lake, Azure ML, Azure Vision, specialized in MLOps, Deep Learning Optimization, Model Performance and Deployments at companies such as Basf, Qwist, Miotek, optimizing models with 50k+ high-resolution images, 1M+ banking transactions, and RAG systems for 2,000+ operators.
+Senior ML-AI Engineer with experience since 2020 working with technologies like Python, SQL, Kubernetes, AirFlow using frameworks such as PyTorch, PySpark, TensorFlow on cloud platforms like Azure Databricks, Azure Data Lake, Azure ML, Azure Vision, specialized in MLOps, Deep Learning Optimization, Model Performance and Deployments at companies such as Basf, Qwist, Miotek, optimizing models with 50k+ high-resolution images, 1M+ banking transactions, and RAG systems for 2,000+ operators.
 
 ## 🚀 About Me
 
