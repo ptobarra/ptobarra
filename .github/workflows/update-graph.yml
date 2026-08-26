@@ -16,9 +16,7 @@ jobs:
       - uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: ptobarra
-          theme: radical
-          area: true
-          hide_border: true
+          options: "theme=radical&area=true&hide_border=true"
           output_path: dist/activity-graph.svg
 
       - name: Commit and Push
