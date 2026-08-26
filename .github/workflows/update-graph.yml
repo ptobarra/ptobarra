@@ -1,0 +1,27 @@
+name: Update Activity Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-activity-graph
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: maurodesouza/github-readme-activity-graph-action@v2
+        with:
+          username: ptobarra
+          theme: react-dark
+          area: true
+          hide_border: true
+          output_path: dist/activity-graph.svg
+
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: update activity graph SVG"
