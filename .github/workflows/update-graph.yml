@@ -19,6 +19,13 @@ jobs:
           options: "theme=redical&area=true&hide_border=true"
           output_path: dist/activity-graph.svg
 
+      - name: Fetch streak stats SVG
+        run: |
+          mkdir -p dist
+          curl -sS --retry 5 --retry-delay 10 --retry-all-errors -m 90 \
+            "https://streak-stats.demolab.com/?user=ptobarra&theme=radical&hide_border=true" \
+            -o dist/streak-stats.svg
+
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:

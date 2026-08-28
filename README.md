@@ -32,7 +32,7 @@ Senior ML-AI Engineer with experience since 2020 working with technologies like 
 
 ![GitHub Stats](https://helio-github-stats.vercel.app/api?username=ptobarra&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ptobarra&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://raw.githubusercontent.com/ptobarra/ptobarra/main/dist/streak-stats.svg)](https://git.io/streak-stats)
 
 [![GitHub Activity Graph](https://raw.githubusercontent.com/ptobarra/ptobarra/main/dist/activity-graph.svg)](https://github.com/ptobarra)
 
