@@ -25,7 +25,7 @@ jobs:
         continue-on-error: true
         with:
           username: ptobarra
-          options: "theme=radical&area=true&hide_border=true"
+          options: "bg_color=141321&color=a9fef7&title_color=fe428e&line=fe428e&point=f8d847&area_color=fe428e&area=true&hide_border=true"
           output_path: dist/activity-graph.svg
 
       - name: Fetch streak stats SVG
@@ -39,7 +39,7 @@ jobs:
             && mv dist/streak-stats.svg.tmp dist/streak-stats.svg
 
       - name: Commit and Push
-        uses: stefanzweifel/git-auto-commit-action@v6
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "docs: update activity graph SVG"
           file_pattern: "dist/*.svg"
